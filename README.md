@@ -1,2 +1,1 @@
-# OdinRecipes
-First project on project odin website.
+Hello this is my first odin project in which i will learn to make a website and improve it with whatever i learn next website is called odin-recipes. And in the process i will also become more good in terminal and git and github commands.
